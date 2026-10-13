@@ -22,6 +22,6 @@ requirements:
 - Driver ODBC para SQL Server (ODBC Driver 17/18 for SQL Server).
 
 instructions for intall the system .
-git clone https://github.com/andyhuapaya1-bot/INVENTARIO-SQL-PY-.git
-pip install -r requirements.txt
-python main.py
+- git clone https://github.com/andyhuapaya1-bot/INVENTARIO-SQL-PY-.git
+- pip install -r requirements.txt
+- python main.py
